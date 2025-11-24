@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Professor Andrew Gordon, Ph.D, MPH</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="field-research.html">Field Research</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="about.html">About Andy</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Professor Andrew Gordon, Ph.D, MPH</h1>
+      <p>Medical and Applied Anthropologist focused on Guinea, West Africa.</p>
+    </section>
+
+    <section class="project">
+      <h2>2025 Project: Fulani Identity</h2>
+      <p>Research: Expression of ethnic identity and healthcare among the Fulani.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Andrew Gordon</p>
+  </footer>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
